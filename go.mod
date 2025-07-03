@@ -1,4 +1,4 @@
-module SPADE
+module github.com/hosseinabdinf/SPADE
 
 go 1.22
 
